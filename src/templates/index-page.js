@@ -131,6 +131,7 @@ const IndexPage = ({ data }) => {
 
   return (
     <Layout>
+      <h1>hello ludafa</h1>
       <IndexPageTemplate
         image={frontmatter.image}
         title={frontmatter.title}
